@@ -2,4 +2,7 @@
 <hr>
 <div>
     <?php include("about_us.html") ?>
+
+
+    
 </div>
